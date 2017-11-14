@@ -230,10 +230,3 @@ int expand(ArrayList* this,int index);
  *                  - ( 0) if Ok
  */
 int contract(ArrayList* this,int index);
-
-
-// Private function
-int resizeUp(ArrayList* this);
-int expand(ArrayList* this,int index);
-int contract(ArrayList* this,int index);
-//___________________
